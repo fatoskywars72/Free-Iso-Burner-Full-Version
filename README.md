@@ -223,4 +223,4 @@ This repository serves as the official landing page for Free ISO Burner. The sof
 **Get the most recent version of Free ISO Burner today!**
 
 ---
-**Last updated:** 2026-10-31 01:59:04 UTC
+**Last updated:** 2026-10-31 08:18:09 UTC
